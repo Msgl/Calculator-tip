@@ -1,0 +1,51 @@
+/* 
+COLOR PALETTE
+https://coolors.co/227c9d-17c3b2-ffcb77-fef9ef-fe6d73
+CG Blue - #227C9D   rgba(34, 124, 157, 1)
+Light sea green - #17C3B2   rgba(23, 195, 178, 1)
+Maximum yellow red - #FFCB77    rgba(255, 203, 119, 1)
+Floral white - #FEF9EF  rgba(254, 249, 239, 1)
+Light coral - #FE6D73   rgba(254, 109, 115, 1)
+
+*/
+
+
+
+/* Global styles 
+------------------------------------------------------------*/
+body{
+    color: rgba(254, 249, 239, 1);
+    background-color: rgba(23, 195, 178, 1);
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+
+/* Container
+------------------------------------------------------------*/
+#container{
+    background-color: rgba(254, 109, 115, 1);
+    height: 200px;
+    width: 200px;
+
+    /* display: grid; */
+}
+
+
+/* #bill_amount{
+
+}
+
+#tip_percentage{
+
+}
+
+#tip_amount{
+
+}
+
+#total_bill{
+
+} */
+
